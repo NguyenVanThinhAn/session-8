@@ -1,0 +1,5 @@
+Tạo một thư mục chứa hình ảnh (JPEG/PNG), video (MP4), tài liệu (DOCX, PDF, TXT), âm thanh (MP3, WAV).
+Ví dụ dung lượng gốc: 500 MB.
+Công cụ tích hợp Windows: Chuột phải → Send to → Compressed (zipped) folder.
+WinRAR: Chuột phải → Add to archive... → Chọn định dạng .rar → OK.
+7-Zip: Chuột phải → 7-Zip → Add to archive... → Chọn định dạng .7z → OK.
